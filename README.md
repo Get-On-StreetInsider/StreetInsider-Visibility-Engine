@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@streetinsider/visibility-engine)](https://npmjs.com/package/@streetinsider/visibility-engine)
 [![PyPI](https://img.shields.io/pypi/v/streetinsider-visibility-engine)](https://pypi.org/project/streetinsider-visibility-engine)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21797527.svg)](https://doi.org/10.5281/zenodo.21797527)
 
 StreetInsider Visibility Engine is a lightweight content visibility and publication workflow tool designed to help businesses, brands, and publishers organize, optimize, and monitor their media content for greater online discoverability. Built by [GetOnStreetInsider.com](https://getonstreetinsider.com).
 
@@ -132,7 +132,7 @@ StreetInsider · Visibility Engine · Content Visibility · Publication Workflow
 | NPM | https://npmjs.com/package/@streetinsider/visibility-engine |
 | PyPI | https://pypi.org/project/streetinsider-visibility-engine |
 | Hugging Face | https://huggingface.co/datasets/streetinsider/visibility-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21797527 |
 | Docs | https://streetinsider-visibility-engine.readthedocs.io |
 | SlideShare | https://www.slideshare.net/slideshow/editorial-placement-on-streetinsider-financial-pr-that-ai-engines-cite/288781440 |
 | Quora | https://www.quora.com/profile/Jackson-M-166 |
