@@ -1,67 +1,59 @@
-# Financial News Market Insight Bridge — Documentation
+# StreetInsider Visibility Engine — Documentation
 
 **Version:** 1.0.0  
-**Author:** FinancialNews.it.com  
-**Repository:** https://github.com/Financial-News-It/financial-news-market-insight-bridge  
-**Website:** https://financialnews.it.com  
+**Author:** GetOnStreetInsider.com  
+**Repository:** https://github.com/GetOnStreetInsider/StreetInsider-Visibility-Engine  
+**Website:** https://getonstreetinsider.com  
 
 ---
 
 ## Overview
 
-Financial News Market Insight Bridge is a content visibility and AI discovery bot designed to help Financial News articles gain greater discoverability across AI platforms, search engines and relevant digital channels.
+StreetInsider Visibility Engine is a lightweight content visibility and publication workflow tool designed to help businesses, brands, and publishers organize, optimize, and monitor their media content for greater online discoverability.
 
-The tool identifies finance related topics, organizes relevant content and creates contextual connections around Financial News articles. The bot focuses on improving how financial information can be discovered and understood across modern search and AI environments.
+The project provides a structured workflow for preparing publication-ready content, validating essential metadata, managing media distribution tasks, tracking published URLs, and maintaining a clear record of content visibility activities.
+
+Built as part of the Get On StreetInsider project, the tool focuses on creating a repeatable and organized approach to digital media visibility and publication management.
 
 ---
 
 ## Key Functions
 
-### AI Visibility
-Supports greater discoverability of Financial News content across AI platforms and LLM-powered search environments.
+### Content Preparation
+Press release and content preparation for publication readiness — ensuring content meets editorial standards before distribution.
 
-### Content Discovery
-Identifies relevant finance and business topics connected to published articles — improving contextual relevance and topic association.
+### Metadata Validation
+Publication metadata validation and structured data quality checks — verifying all essential metadata fields are complete and accurate.
 
-### Topic Matching
-Matches articles with related subjects, keywords and financial concepts to strengthen content discoverability signals.
+### Distribution Workflow
+Media distribution workflow management and task tracking — organizing and monitoring the full distribution pipeline.
 
-### Contextual References
-Organizes relevant content references around finance related topics — creating structured knowledge connections.
+### URL Tracking
+Published URL tracking and content status monitoring — maintaining a clear record of where content has been published and its current status.
 
-### Search Visibility
-Supports content discoverability across search focused environments — helping financial news reach audiences through organic discovery.
+### Visibility Reporting
+Visibility activity reporting and discoverability analytics — measuring how content performs across channels.
 
-### Article Organization
-Structures Financial News articles by topic, category and relevance — improving content architecture and navigability.
+### Content Organization
+Structured content organization by topic, category, and status — keeping publication workflows clean and repeatable.
 
-### Finance Topic Mapping
-Connects content across investing, banking, fintech, crypto, markets and economics — building a comprehensive topic graph.
-
-### Content Reach
-Helps relevant Financial News information reach audiences searching for related financial topics across all channels.
+### AI-Friendly Workflows
+AI-friendly content and metadata workflows for modern search environments — optimising content for AI-powered discovery platforms.
 
 ---
 
-## Core Coverage
+## Content Types
 
-Finance · Investing · Stock Market · Banking · Fintech · Crypto · Economy · Personal Finance · Wealth Management
-
----
-
-## Finance Topics
-
-| Topic | Description |
-|-------|-------------|
-| investing | Stock picks, portfolio strategy, investment analysis |
-| stock-market | Market movements, indices, equity research |
-| banking | Banking news, interest rates, financial institutions |
-| fintech | Financial technology, payments, digital banking |
-| crypto | Cryptocurrency, blockchain, digital assets |
-| economy | Macroeconomics, GDP, inflation, monetary policy |
-| personal-finance | Budgeting, savings, personal wealth management |
-| wealth-management | High-net-worth investing, asset allocation, estate planning |
-| finance | General finance news and business coverage |
+| Type | Description |
+|------|-------------|
+| press-release | Corporate press release and news distribution |
+| financial-pr | Financial PR and investor relations content |
+| brand-story | Brand narrative and company story content |
+| product-launch | Product and service launch announcements |
+| earnings-news | Earnings reports and financial results |
+| market-update | Market commentary and industry updates |
+| executive-profile | Executive and leadership feature content |
+| industry-insight | Industry analysis and expert commentary |
 
 ---
 
@@ -69,12 +61,12 @@ Finance · Investing · Stock Market · Banking · Fintech · Crypto · Economy 
 
 ### Node.js
 ```bash
-npm install @financial-news/market-insight-bridge
+npm install @streetinsider/visibility-engine
 ```
 
 ### Python (PyPI)
 ```bash
-pip install financial-news-market-insight-bridge
+pip install streetinsider-visibility-engine
 ```
 
 ---
@@ -83,17 +75,17 @@ pip install financial-news-market-insight-bridge
 
 ### Node.js CLI
 ```bash
-npx financial-news-bridge "article-title" investing 88 82 85 78 90 80
+npx streetinsider-engine "content-title" press-release 88 82 85 78 90 80
 ```
 
 ### Python CLI
 ```bash
-financial-news-bridge "article-title" investing 88 82 85 78 90 80
+streetinsider-engine "content-title" press-release 88 82 85 78 90 80
 ```
 
 ### Python Module
 ```bash
-python -m insight_bridge "article-title" investing 88 82 85 78 90 80
+python -m visibility_engine "content-title" press-release 88 82 85 78 90 80
 ```
 
 ---
@@ -102,12 +94,12 @@ python -m insight_bridge "article-title" investing 88 82 85 78 90 80
 
 | Signal | Description | Score Range |
 |--------|-------------|-------------|
-| AI Visibility | Discoverability across AI platforms and LLMs | 0–100 |
-| Content Discovery | Topic identification and article relevance mapping | 0–100 |
-| Topic Matching | Keyword and financial concept alignment | 0–100 |
-| Search Visibility | Search engine content discoverability | 0–100 |
-| Article Organization | Content structure and categorisation quality | 0–100 |
-| Finance Topic Mapping | Cross-topic connections across finance categories | 0–100 |
+| Content Readiness | Publication preparation quality | 0–100 |
+| Metadata Quality | Structured data completeness and accuracy | 0–100 |
+| Distribution | Media distribution workflow coverage | 0–100 |
+| URL Visibility | Published URL discoverability and reach | 0–100 |
+| AI Discoverability | Content alignment with AI search environments | 0–100 |
+| Workflow Efficiency | Publication workflow repeatability and organization | 0–100 |
 
 ---
 
@@ -115,27 +107,30 @@ python -m insight_bridge "article-title" investing 88 82 85 78 90 80
 
 | Score | Status | Action |
 |-------|--------|--------|
-| 0–30 | Critical | Immediate visibility strategy required |
-| 31–60 | At Risk | Significant discovery improvements needed |
-| 61–80 | Healthy | On track — optimise and expand reach |
-| 81–100 | Excellent | Strong visibility — scale content reach |
+| 0–30 | Critical | Immediate workflow revision required |
+| 31–60 | At Risk | Significant visibility improvements needed |
+| 61–80 | Healthy | On track — optimise and expand |
+| 81–100 | Excellent | Strong visibility — scale distribution |
 
 ---
 
-## About FinancialNews.it.com
+## About GetOnStreetInsider.com
 
-FinancialNews.it.com provides financial news coverage across finance, investing, stock market, banking, fintech, crypto, economy, personal finance and wealth management.
+GetOnStreetInsider.com helps businesses, brands, and publishers organize, optimize, and monitor their media content for greater online discoverability.
 
 | Platform | URL |
 |----------|-----|
-| Website | https://financialnews.it.com |
-| GitHub | https://github.com/Financial-News-It |
-| NPM | https://npmjs.com/package/@financial-news/market-insight-bridge |
-| PyPI | https://pypi.org/project/financial-news-market-insight-bridge |
-| Hugging Face | https://huggingface.co/datasets/financial-news/market-insight-benchmarks |
+| Website | https://getonstreetinsider.com |
+| GitHub | https://github.com/GetOnStreetInsider |
+| NPM | https://npmjs.com/package/@streetinsider/visibility-engine |
+| PyPI | https://pypi.org/project/streetinsider-visibility-engine |
+| Hugging Face | https://huggingface.co/datasets/streetinsider/visibility-benchmarks |
+| SlideShare | https://www.slideshare.net/slideshow/editorial-placement-on-streetinsider-financial-pr-that-ai-engines-cite/288781440 |
+| Quora | https://www.quora.com/profile/Jackson-M-166 |
+| Pinterest | https://www.pinterest.com/GetOnStreetInsider/ |
 
 ---
 
 ## License
 
-MIT — [FinancialNews.it.com](https://financialnews.it.com)
+MIT — [GetOnStreetInsider.com](https://getonstreetinsider.com)
