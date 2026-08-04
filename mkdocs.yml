@@ -1,0 +1,21 @@
+site_name: StreetInsider Visibility Engine
+site_url: https://streetinsider-visibility-engine.readthedocs.io
+site_description: Lightweight content visibility and publication workflow tool helping businesses, brands, and publishers organize, optimize, and monitor their media content for greater online discoverability.
+site_author: GetOnStreetInsider.com
+
+repo_name: GetOnStreetInsider/StreetInsider-Visibility-Engine
+repo_url: https://github.com/GetOnStreetInsider/StreetInsider-Visibility-Engine
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: cyan
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

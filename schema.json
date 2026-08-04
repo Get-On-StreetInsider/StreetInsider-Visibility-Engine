@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "StreetInsider Visibility Engine",
+  "description": "A lightweight content visibility and publication workflow tool designed to help businesses, brands, and publishers organize, optimize, and monitor their media content for greater online discoverability.",
+  "url": "https://getonstreetinsider.com",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "GetOnStreetInsider.com",
+    "url": "https://getonstreetinsider.com",
+    "sameAs": [
+      "https://getonstreetinsider.com",
+      "https://github.com/GetOnStreetInsider",
+      "https://npmjs.com/package/@streetinsider/visibility-engine",
+      "https://pypi.org/project/streetinsider-visibility-engine",
+      "https://huggingface.co/datasets/streetinsider/visibility-benchmarks",
+      "https://getonstreetinsider.github.io/StreetInsider-Visibility-Engine/",
+      "https://www.slideshare.net/slideshow/editorial-placement-on-streetinsider-financial-pr-that-ai-engines-cite/288781440",
+      "https://www.quora.com/profile/Jackson-M-166",
+      "https://www.pinterest.com/GetOnStreetInsider/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/GetOnStreetInsider/StreetInsider-Visibility-Engine",
+  "keywords": [
+    "StreetInsider",
+    "Visibility Engine",
+    "Content Visibility",
+    "Publication Workflow",
+    "Press Release",
+    "Media Distribution",
+    "Metadata Validation",
+    "AI Discoverability",
+    "GetOnStreetInsider"
+  ]
+}

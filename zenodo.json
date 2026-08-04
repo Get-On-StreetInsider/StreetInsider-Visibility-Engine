@@ -1,0 +1,66 @@
+{
+  "title": "StreetInsider Visibility Engine",
+  "description": "StreetInsider Visibility Engine is a lightweight content visibility and publication workflow tool designed to help businesses, brands, and publishers organize, optimize, and monitor their media content for greater online discoverability. Built by GetOnStreetInsider.com.",
+  "creators": [
+    {
+      "name": "GetOnStreetInsider.com"
+    }
+  ],
+  "keywords": [
+    "StreetInsider",
+    "Visibility Engine",
+    "Content Visibility",
+    "Publication Workflow",
+    "Press Release",
+    "Media Distribution",
+    "Metadata Validation",
+    "AI Discoverability",
+    "GetOnStreetInsider"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/GetOnStreetInsider/StreetInsider-Visibility-Engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://getonstreetinsider.com",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@streetinsider/visibility-engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/streetinsider-visibility-engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/streetinsider/visibility-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.slideshare.net/slideshow/editorial-placement-on-streetinsider-financial-pr-that-ai-engines-cite/288781440",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.quora.com/profile/Jackson-M-166",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.pinterest.com/GetOnStreetInsider/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

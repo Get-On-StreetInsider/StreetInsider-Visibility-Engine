@@ -1,0 +1,37 @@
+{
+  "name": "@streetinsider/visibility-engine",
+  "version": "1.0.0",
+  "description": "StreetInsider Visibility Engine is a lightweight content visibility and publication workflow tool designed to help businesses, brands, and publishers organize, optimize, and monitor their media content for greater online discoverability.",
+  "main": "index.js",
+  "bin": {
+    "streetinsider-engine": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "streetinsider",
+    "visibility-engine",
+    "content-visibility",
+    "publication-workflow",
+    "press-release",
+    "media-distribution",
+    "metadata-validation",
+    "ai-discoverability",
+    "financial-pr",
+    "brand-story",
+    "url-tracking",
+    "workflow-management"
+  ],
+  "author": "GetOnStreetInsider.com",
+  "license": "MIT",
+  "homepage": "https://getonstreetinsider.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GetOnStreetInsider/StreetInsider-Visibility-Engine"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
