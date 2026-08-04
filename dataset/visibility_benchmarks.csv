@@ -1,0 +1,21 @@
+id,content_title,content_type,content_readiness_score,metadata_quality_score,distribution_score,url_visibility_score,ai_discoverability_score,workflow_efficiency_score,overall_visibility_index,priority_action,streetinsider_score,search_engines_score,ai_platforms_score,financial_media_score,industry,notes
+1,Tech Startup Raises $10M Series A,press-release,90,86,88,82,92,84,87,URL Visibility,90,89,92,88,Technology,Strong AI visibility for PR
+2,Q3 Earnings Beat Analyst Estimates,financial-pr,88,84,86,80,90,82,85,URL Visibility,88,87,90,86,Finance,Earnings release workflow
+3,New SaaS Platform Launch Announced,product-launch,86,82,88,80,88,84,85,URL Visibility,86,85,88,88,SaaS,Product launch distribution
+4,CEO Joins Board of Fintech Startup,executive-profile,84,80,84,78,86,80,82,URL Visibility,84,83,86,84,FinTech,Executive profile content
+5,Crypto Exchange Adds 5 New Trading Pairs,market-update,88,84,88,82,90,84,86,URL Visibility,88,87,90,88,Crypto,Market update distribution
+6,Biotech Firm Reports Trial Results,financial-pr,90,88,86,84,92,86,88,URL Visibility,90,91,92,86,Biotech,Clinical trial PR workflow
+7,E-commerce Brand Expands to Europe,brand-story,84,80,86,78,86,82,83,URL Visibility,84,83,86,86,E-commerce,Brand expansion story
+8,AI Startup Wins Industry Award,press-release,88,84,88,82,90,84,86,URL Visibility,88,87,90,88,AI,Award announcement PR
+9,Manufacturing Firm Cuts Carbon Emissions,brand-story,82,78,84,76,84,80,81,URL Visibility,82,81,84,84,Manufacturing,ESG content workflow
+10,Insurance Tech Raises Growth Round,financial-pr,86,82,86,80,88,82,84,URL Visibility,86,83,88,86,InsurTech,Growth funding PR
+11,Retail Chain Opens 50 New Stores,press-release,84,80,84,78,86,80,82,URL Visibility,84,83,86,84,Retail,Expansion announcement
+12,PropTech Platform Closes Seed Round,financial-pr,86,82,88,80,88,84,85,URL Visibility,86,83,88,88,PropTech,Seed funding workflow
+13,Health App Reaches 1M Downloads,market-update,88,84,86,82,90,84,86,URL Visibility,88,87,90,86,HealthTech,Milestone announcement
+14,Bank Launches Digital Wallet Feature,product-launch,86,82,88,80,88,84,85,URL Visibility,86,83,88,88,Banking,Product launch PR
+15,SpaceTech Startup Signs Government Deal,press-release,90,86,88,84,92,86,88,URL Visibility,90,89,92,88,SpaceTech,Government contract PR
+16,EdTech Platform Partners with University,brand-story,84,80,84,78,86,80,82,URL Visibility,84,83,86,84,EdTech,Partnership announcement
+17,Logistics Firm Automates Warehouse Ops,industry-insight,86,82,86,80,88,82,84,URL Visibility,86,83,88,86,Logistics,Industry insight piece
+18,LegalTech Startup Raises $5M Pre-Seed,financial-pr,84,80,84,78,86,80,82,URL Visibility,84,83,86,84,LegalTech,Early stage funding PR
+19,Fintech App Adds Crypto Payments,product-launch,88,84,90,82,90,86,87,URL Visibility,88,87,90,90,FinTech,Feature launch workflow
+20,CleanTech Company Wins Green Award,press-release,90,86,88,84,92,86,88,URL Visibility,90,89,92,88,CleanTech,Award announcement PR
